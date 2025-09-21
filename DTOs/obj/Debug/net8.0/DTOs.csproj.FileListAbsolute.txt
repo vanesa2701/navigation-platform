@@ -1,0 +1,12 @@
+C:\Users\Vanesa\source\repos\NavigationPlatform\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\Vanesa\source\repos\NavigationPlatform\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\Vanesa\source\repos\NavigationPlatform\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\Vanesa\source\repos\NavigationPlatform\DTOs\obj\Debug\net8.0\DTOs.csproj.AssemblyReference.cache
+C:\Users\Vanesa\source\repos\NavigationPlatform\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanesa\source\repos\NavigationPlatform\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Vanesa\source\repos\NavigationPlatform\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\Vanesa\source\repos\NavigationPlatform\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Vanesa\source\repos\NavigationPlatform\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\Vanesa\source\repos\NavigationPlatform\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\Vanesa\source\repos\NavigationPlatform\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\Vanesa\source\repos\NavigationPlatform\DTOs\obj\Debug\net8.0\ref\DTOs.dll

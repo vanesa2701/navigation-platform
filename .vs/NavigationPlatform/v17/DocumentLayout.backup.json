@@ -1,0 +1,1831 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\services\\messaging\\rabbitmqeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\services\\messaging\\rabbitmqeventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B3F5CA-4092-42EE-837F-8220E48A1FA7}|Tests\\Tests.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6B3F5CA-4092-42EE-837F-8220E48A1FA7}|Tests\\Tests.csproj|solutionrelative:tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B3F5CA-4092-42EE-837F-8220E48A1FA7}|Tests\\Tests.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\tests\\usertests\\userservicestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B3F5CA-4092-42EE-837F-8220E48A1FA7}|Tests\\Tests.csproj|solutionrelative:tests\\usertests\\userservicestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B3F5CA-4092-42EE-837F-8220E48A1FA7}|Tests\\Tests.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\tests\\usertests\\journeyservicestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B3F5CA-4092-42EE-837F-8220E48A1FA7}|Tests\\Tests.csproj|solutionrelative:tests\\usertests\\journeyservicestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\shared\\ijwtutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\shared\\ijwtutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\shared\\jwtuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\shared\\jwtuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\services\\journeyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\services\\journeyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\infrastructure\\repositories\\journeyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\journeyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\domain\\interfaces\\ijourneyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ijourneyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\dto\\journey\\addjourneyrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\dto\\journey\\addjourneyrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\controllers\\journeycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\journeycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\validators\\registerrequestdtoapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\validators\\registerrequestdtoapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\validators\\monthlyroutedistancedtoapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\validators\\monthlyroutedistancedtoapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\validators\\loginrequestdtoapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\validators\\loginrequestdtoapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\validators\\journeyunsharerequestdtoapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\validators\\journeyunsharerequestdtoapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\validators\\journeysharerequestdtoapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\validators\\journeysharerequestdtoapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\validators\\journeyfilterrequestdtoapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\validators\\journeyfilterrequestdtoapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\validators\\adminchangeuserstatusrequestdtoapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\validators\\adminchangeuserstatusrequestdtoapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\validators\\addjourneyrequestdtoapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\validators\\addjourneyrequestdtoapivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\profilemapper\\userprofileapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\profilemapper\\userprofileapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\profilemapper\\journeyprofileapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\profilemapper\\journeyprofileapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\middlewares\\jwtblacklistmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\middlewares\\jwtblacklistmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\middlewares\\addproblemdetailsmappingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\middlewares\\addproblemdetailsmappingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\health\\sqlconnectionhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\health\\sqlconnectionhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\health\\rabbitmqhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\health\\rabbitmqhealthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\extentions\\validationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\extentions\\validationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\infrastructure\\repositories\\userstatuschangerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userstatuschangerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\infrastructure\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\infrastructure\\repositories\\journeysharerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\journeysharerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\infrastructure\\repositories\\dailygoalbadgerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\dailygoalbadgerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\infrastructure\\repositories\\journeypubliclinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\journeypubliclinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\infrastructure\\repositories\\auditlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\auditlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\infrastructure\\migrations\\20250918140235_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250918140235_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\infrastructure\\mapping\\userprofileapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mapping\\userprofileapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\infrastructure\\mapping\\journeyprofiledtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33BEF94-9B38-4531-A455-B0534EE9B835}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\mapping\\journeyprofiledtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\webapidto\\user\\registerresponsedtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\webapidto\\user\\registerresponsedtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\webapidto\\user\\registerrequestdtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\webapidto\\user\\registerrequestdtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\webapidto\\user\\loginrequestdtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\webapidto\\user\\loginrequestdtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\webapidto\\user\\adminchangeuserstatusrequestdtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\webapidto\\user\\adminchangeuserstatusrequestdtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\webapidto\\journey\\publicjourneylinkresponsedtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\webapidto\\journey\\publicjourneylinkresponsedtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\webapidto\\journey\\monthlyroutedistanceresponsedtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\webapidto\\journey\\monthlyroutedistanceresponsedtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\webapidto\\journey\\monthlyroutedistancedtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\webapidto\\journey\\monthlyroutedistancedtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\webapidto\\journey\\journeyunsharerequestdtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\webapidto\\journey\\journeyunsharerequestdtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\webapidto\\journey\\journeyshareresponsedtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\webapidto\\journey\\journeyshareresponsedtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\webapidto\\journey\\journeysharerequestdtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\webapidto\\journey\\journeysharerequestdtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\webapidto\\journey\\journeypubliclinkdtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\webapidto\\journey\\journeypubliclinkdtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\webapidto\\journey\\journeyfilterresponsedtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\webapidto\\journey\\journeyfilterresponsedtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\webapidto\\journey\\journeyfilterrequestdtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\webapidto\\journey\\journeyfilterrequestdtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\webapidto\\journey\\journeydtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\webapidto\\journey\\journeydtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\webapidto\\journey\\addjourneyrequestdtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\webapidto\\journey\\addjourneyrequestdtoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\dto\\user\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\dto\\user\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\dto\\user\\registerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\dto\\user\\registerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\dto\\user\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\dto\\user\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\dto\\user\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\dto\\user\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\dto\\user\\adminchangeuserstatusrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\dto\\user\\adminchangeuserstatusrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\dto\\journey\\publicjourneylinkresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\dto\\journey\\publicjourneylinkresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\dto\\journey\\monthlyroutedistanceresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\dto\\journey\\monthlyroutedistanceresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\dto\\journey\\monthlyroutedistancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\dto\\journey\\monthlyroutedistancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\dto\\journey\\journeyunsharerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\dto\\journey\\journeyunsharerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\dto\\journey\\journeyshareresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\dto\\journey\\journeyshareresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\dto\\journey\\journeysharerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\dto\\journey\\journeysharerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\dto\\journey\\journeypubliclinkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\dto\\journey\\journeypubliclinkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\dto\\journey\\journeyfilterresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\dto\\journey\\journeyfilterresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\dto\\journey\\journeyfilterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\dto\\journey\\journeyfilterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\dto\\journey\\journeydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\dto\\journey\\journeydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\domain\\interfaces\\iuserstatuschangerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserstatuschangerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\domain\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\domain\\interfaces\\ijourneysharerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ijourneysharerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\domain\\interfaces\\ijourneypubliclinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ijourneypubliclinkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\domain\\interfaces\\idailygoalbadgerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\idailygoalbadgerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\domain\\interfaces\\iauditlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iauditlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\domain\\entities\\userstatuschange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\userstatuschange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\domain\\entities\\journeyshare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\journeyshare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\domain\\entities\\journeypubliclink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\journeypubliclink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\domain\\entities\\journey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\journey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\domain\\entities\\dailygoalbadge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\dailygoalbadge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EB95B7-653A-441C-9DB9-689C93217152}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E873F7-6E7C-4C12-8192-2DB65E589155}|Common\\Common.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\common\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E873F7-6E7C-4C12-8192-2DB65E589155}|Common\\Common.csproj|solutionrelative:common\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E873F7-6E7C-4C12-8192-2DB65E589155}|Common\\Common.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E873F7-6E7C-4C12-8192-2DB65E589155}|Common\\Common.csproj|solutionrelative:common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E873F7-6E7C-4C12-8192-2DB65E589155}|Common\\Common.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\common\\exceptions\\httpcodetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E873F7-6E7C-4C12-8192-2DB65E589155}|Common\\Common.csproj|solutionrelative:common\\exceptions\\httpcodetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E873F7-6E7C-4C12-8192-2DB65E589155}|Common\\Common.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\common\\exceptions\\goneexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E873F7-6E7C-4C12-8192-2DB65E589155}|Common\\Common.csproj|solutionrelative:common\\exceptions\\goneexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E873F7-6E7C-4C12-8192-2DB65E589155}|Common\\Common.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\common\\exceptions\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E873F7-6E7C-4C12-8192-2DB65E589155}|Common\\Common.csproj|solutionrelative:common\\exceptions\\forbiddenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E873F7-6E7C-4C12-8192-2DB65E589155}|Common\\Common.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\common\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E873F7-6E7C-4C12-8192-2DB65E589155}|Common\\Common.csproj|solutionrelative:common\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E873F7-6E7C-4C12-8192-2DB65E589155}|Common\\Common.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\common\\exceptions\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E873F7-6E7C-4C12-8192-2DB65E589155}|Common\\Common.csproj|solutionrelative:common\\exceptions\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E873F7-6E7C-4C12-8192-2DB65E589155}|Common\\Common.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\common\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E873F7-6E7C-4C12-8192-2DB65E589155}|Common\\Common.csproj|solutionrelative:common\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\shared\\jwtutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\shared\\jwtutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\services\\jwtblacklistservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\services\\jwtblacklistservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\services\\dailygoalworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\services\\dailygoalworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\services\\messaging\\rabbitmqoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\services\\messaging\\rabbitmqoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\services\\messaging\\ieventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\services\\messaging\\ieventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\resources\\stringresourcemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\resources\\stringresourcemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\resources\\commonstringresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\resources\\commonstringresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\mapping\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\mapping\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\mapping\\journeyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\mapping\\journeyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\events\\userstatuschangedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\events\\userstatuschangedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\contracts\\ijourneyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\contracts\\ijourneyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\contracts\\ijwtblacklistservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\contracts\\ijwtblacklistservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\contracts\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\contracts\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\application\\events\\userloggedoutevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5300FD-0C69-436F-80D6-F787D0AD35DB}|Application\\Application.csproj|solutionrelative:application\\events\\userloggedoutevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98CB6E06-B21A-421A-ACD7-EDB232A55017}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|c:\\users\\vanesa\\source\\repos\\navigationplatform\\dtos\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D45F2A76-45DC-4F5A-BC59-90730BF63F97}|DTOs\\DTO.csproj|solutionrelative:dtos\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Services\\UserServices.cs",
+              "RelativeToolTip": "Application\\Services\\UserServices.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAqwEMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:25:27.782Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T13:10:06.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JourneyServices.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Services\\JourneyServices.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\JourneyServices.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Services\\JourneyServices.cs",
+              "RelativeToolTip": "Application\\Services\\JourneyServices.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAASwBwBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:25:18.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JourneyServicesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Tests\\UserTests\\JourneyServicesTests.cs",
+              "RelativeDocumentMoniker": "Tests\\UserTests\\JourneyServicesTests.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Tests\\UserTests\\JourneyServicesTests.cs",
+              "RelativeToolTip": "Tests\\UserTests\\JourneyServicesTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN0EAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T02:13:46.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMqEventPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Services\\Messaging\\RabbitMqEventPublisher.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Messaging\\RabbitMqEventPublisher.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Services\\Messaging\\RabbitMqEventPublisher.cs",
+              "RelativeToolTip": "Application\\Services\\Messaging\\RabbitMqEventPublisher.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAArwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:24:44.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Presentation.http",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Presentation.http",
+              "RelativeDocumentMoniker": "Presentation\\Presentation.http",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Presentation.http",
+              "RelativeToolTip": "Presentation\\Presentation.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-17T18:21:21.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAiwP4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:15:45.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Tests\\Tests.csproj",
+              "RelativeDocumentMoniker": "Tests\\Tests.csproj",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Tests\\Tests.csproj",
+              "RelativeToolTip": "Tests\\Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-21T02:12:40.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IJWTUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Shared\\IJWTUtilities.cs",
+              "RelativeDocumentMoniker": "Application\\Shared\\IJWTUtilities.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Shared\\IJWTUtilities.cs",
+              "RelativeToolTip": "Application\\Shared\\IJWTUtilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:25:38.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtUser.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Shared\\JwtUser.cs",
+              "RelativeDocumentMoniker": "Application\\Shared\\JwtUser.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Shared\\JwtUser.cs",
+              "RelativeToolTip": "Application\\Shared\\JwtUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:25:40.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserServicesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Tests\\UserTests\\UserServicesTests.cs",
+              "RelativeDocumentMoniker": "Tests\\UserTests\\UserServicesTests.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Tests\\UserTests\\UserServicesTests.cs",
+              "RelativeToolTip": "Tests\\UserTests\\UserServicesTests.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAACMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T02:16:04.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JourneyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Repositories\\JourneyRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\JourneyRepository.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Repositories\\JourneyRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\JourneyRepository.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAA4wDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T21:52:24.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IJourneyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IJourneyRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IJourneyRepository.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IJourneyRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IJourneyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:48.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddJourneyRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\AddJourneyRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTO\\Journey\\AddJourneyRequestDto.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\AddJourneyRequestDto.cs",
+              "RelativeToolTip": "DTOs\\DTO\\Journey\\AddJourneyRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:59.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:51.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterRequestDtoApiValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Validators\\RegisterRequestDtoApiValidator.cs",
+              "RelativeDocumentMoniker": "Presentation\\Validators\\RegisterRequestDtoApiValidator.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Validators\\RegisterRequestDtoApiValidator.cs",
+              "RelativeToolTip": "Presentation\\Validators\\RegisterRequestDtoApiValidator.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:59:04.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MonthlyRouteDistanceDtoApiValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Validators\\MonthlyRouteDistanceDtoApiValidator.cs",
+              "RelativeDocumentMoniker": "Presentation\\Validators\\MonthlyRouteDistanceDtoApiValidator.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Validators\\MonthlyRouteDistanceDtoApiValidator.cs",
+              "RelativeToolTip": "Presentation\\Validators\\MonthlyRouteDistanceDtoApiValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:56:02.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAowGkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:05:59.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JourneyController.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Controllers\\JourneyController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\JourneyController.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Controllers\\JourneyController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\JourneyController.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAUwO0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:05:58.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginRequestDtoApiValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Validators\\LoginRequestDtoApiValidator.cs",
+              "RelativeDocumentMoniker": "Presentation\\Validators\\LoginRequestDtoApiValidator.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Validators\\LoginRequestDtoApiValidator.cs",
+              "RelativeToolTip": "Presentation\\Validators\\LoginRequestDtoApiValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:59:21.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JourneyUnshareRequestDtoApiValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Validators\\JourneyUnshareRequestDtoApiValidator.cs",
+              "RelativeDocumentMoniker": "Presentation\\Validators\\JourneyUnshareRequestDtoApiValidator.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Validators\\JourneyUnshareRequestDtoApiValidator.cs",
+              "RelativeToolTip": "Presentation\\Validators\\JourneyUnshareRequestDtoApiValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T21:44:52.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JourneyShareRequestDtoApiValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Validators\\JourneyShareRequestDtoApiValidator.cs",
+              "RelativeDocumentMoniker": "Presentation\\Validators\\JourneyShareRequestDtoApiValidator.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Validators\\JourneyShareRequestDtoApiValidator.cs",
+              "RelativeToolTip": "Presentation\\Validators\\JourneyShareRequestDtoApiValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:55:31.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JourneyFilterRequestDtoApiValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Validators\\JourneyFilterRequestDtoApiValidator.cs",
+              "RelativeDocumentMoniker": "Presentation\\Validators\\JourneyFilterRequestDtoApiValidator.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Validators\\JourneyFilterRequestDtoApiValidator.cs",
+              "RelativeToolTip": "Presentation\\Validators\\JourneyFilterRequestDtoApiValidator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:55:26.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminChangeUserStatusRequestDtoApiValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Validators\\AdminChangeUserStatusRequestDtoApiValidator.cs",
+              "RelativeDocumentMoniker": "Presentation\\Validators\\AdminChangeUserStatusRequestDtoApiValidator.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Validators\\AdminChangeUserStatusRequestDtoApiValidator.cs",
+              "RelativeToolTip": "Presentation\\Validators\\AdminChangeUserStatusRequestDtoApiValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T11:59:28.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddJourneyRequestDtoApiValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Validators\\AddJourneyRequestDtoApiValidator.cs",
+              "RelativeDocumentMoniker": "Presentation\\Validators\\AddJourneyRequestDtoApiValidator.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Validators\\AddJourneyRequestDtoApiValidator.cs",
+              "RelativeToolTip": "Presentation\\Validators\\AddJourneyRequestDtoApiValidator.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:55:21.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserProfileApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\ProfileMapper\\UserProfileApi.cs",
+              "RelativeDocumentMoniker": "Presentation\\ProfileMapper\\UserProfileApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\ProfileMapper\\UserProfileApi.cs",
+              "RelativeToolTip": "Presentation\\ProfileMapper\\UserProfileApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:59:32.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JourneyProfileApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\ProfileMapper\\JourneyProfileApi.cs",
+              "RelativeDocumentMoniker": "Presentation\\ProfileMapper\\JourneyProfileApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\ProfileMapper\\JourneyProfileApi.cs",
+              "RelativeToolTip": "Presentation\\ProfileMapper\\JourneyProfileApi.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T23:05:34.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "JwtBlacklistMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Middlewares\\JwtBlacklistMiddleware.cs",
+              "RelativeDocumentMoniker": "Presentation\\Middlewares\\JwtBlacklistMiddleware.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Middlewares\\JwtBlacklistMiddleware.cs",
+              "RelativeToolTip": "Presentation\\Middlewares\\JwtBlacklistMiddleware.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T22:37:05.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddProblemDetailsMappingOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Middlewares\\AddProblemDetailsMappingOptions.cs",
+              "RelativeDocumentMoniker": "Presentation\\Middlewares\\AddProblemDetailsMappingOptions.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Middlewares\\AddProblemDetailsMappingOptions.cs",
+              "RelativeToolTip": "Presentation\\Middlewares\\AddProblemDetailsMappingOptions.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAkwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T01:48:02.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SqlConnectionHealthCheck.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Health\\SqlConnectionHealthCheck.cs",
+              "RelativeDocumentMoniker": "Presentation\\Health\\SqlConnectionHealthCheck.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Health\\SqlConnectionHealthCheck.cs",
+              "RelativeToolTip": "Presentation\\Health\\SqlConnectionHealthCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T22:52:04.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RabbitMqHealthCheck.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Health\\RabbitMqHealthCheck.cs",
+              "RelativeDocumentMoniker": "Presentation\\Health\\RabbitMqHealthCheck.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Health\\RabbitMqHealthCheck.cs",
+              "RelativeToolTip": "Presentation\\Health\\RabbitMqHealthCheck.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T22:53:16.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ValidationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Extentions\\ValidationExtensions.cs",
+              "RelativeDocumentMoniker": "Presentation\\Extentions\\ValidationExtensions.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Extentions\\ValidationExtensions.cs",
+              "RelativeToolTip": "Presentation\\Extentions\\ValidationExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T01:47:35.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:33:59.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserStatusChangeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Repositories\\UserStatusChangeRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserStatusChangeRepository.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Repositories\\UserStatusChangeRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserStatusChangeRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T01:44:54.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T01:44:50.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\RoleRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T01:44:46.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DailyGoalBadgeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Repositories\\DailyGoalBadgeRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\DailyGoalBadgeRepository.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Repositories\\DailyGoalBadgeRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\DailyGoalBadgeRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T23:44:59.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AuditLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Repositories\\AuditLogRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\AuditLogRepository.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Repositories\\AuditLogRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\AuditLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T01:43:09.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "JourneyPublicLinkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Repositories\\JourneyPublicLinkRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\JourneyPublicLinkRepository.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Repositories\\JourneyPublicLinkRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\JourneyPublicLinkRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:33:10.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "JourneyShareRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Repositories\\JourneyShareRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\JourneyShareRepository.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Repositories\\JourneyShareRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\JourneyShareRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T21:49:18.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250918140235_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Migrations\\20250918140235_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250918140235_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Migrations\\20250918140235_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250918140235_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T01:43:06.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RegisterRequestDtoApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\User\\RegisterRequestDtoApi.cs",
+              "RelativeDocumentMoniker": "DTOs\\WebApiDTO\\User\\RegisterRequestDtoApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\User\\RegisterRequestDtoApi.cs",
+              "RelativeToolTip": "DTOs\\WebApiDTO\\User\\RegisterRequestDtoApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:29:33.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LoginRequestDtoApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\User\\LoginRequestDtoApi.cs",
+              "RelativeDocumentMoniker": "DTOs\\WebApiDTO\\User\\LoginRequestDtoApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\User\\LoginRequestDtoApi.cs",
+              "RelativeToolTip": "DTOs\\WebApiDTO\\User\\LoginRequestDtoApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:29:15.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AdminChangeUserStatusRequestDtoApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\User\\AdminChangeUserStatusRequestDtoApi.cs",
+              "RelativeDocumentMoniker": "DTOs\\WebApiDTO\\User\\AdminChangeUserStatusRequestDtoApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\User\\AdminChangeUserStatusRequestDtoApi.cs",
+              "RelativeToolTip": "DTOs\\WebApiDTO\\User\\AdminChangeUserStatusRequestDtoApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T11:57:10.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RegisterResponseDtoApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\User\\RegisterResponseDtoApi.cs",
+              "RelativeDocumentMoniker": "DTOs\\WebApiDTO\\User\\RegisterResponseDtoApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\User\\RegisterResponseDtoApi.cs",
+              "RelativeToolTip": "DTOs\\WebApiDTO\\User\\RegisterResponseDtoApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:29:44.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "JourneyProfileDtoApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Mapping\\JourneyProfileDtoApi.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Mapping\\JourneyProfileDtoApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Mapping\\JourneyProfileDtoApi.cs",
+              "RelativeToolTip": "Infrastructure\\Mapping\\JourneyProfileDtoApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:53:31.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserProfileApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Mapping\\UserProfileApi.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Mapping\\UserProfileApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Infrastructure\\Mapping\\UserProfileApi.cs",
+              "RelativeToolTip": "Infrastructure\\Mapping\\UserProfileApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:40:37.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PublicJourneyLinkResponseDtoApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\PublicJourneyLinkResponseDtoApi.cs",
+              "RelativeDocumentMoniker": "DTOs\\WebApiDTO\\Journey\\PublicJourneyLinkResponseDtoApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\PublicJourneyLinkResponseDtoApi.cs",
+              "RelativeToolTip": "DTOs\\WebApiDTO\\Journey\\PublicJourneyLinkResponseDtoApi.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:28:39.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MonthlyRouteDistanceResponseDtoApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\MonthlyRouteDistanceResponseDtoApi.cs",
+              "RelativeDocumentMoniker": "DTOs\\WebApiDTO\\Journey\\MonthlyRouteDistanceResponseDtoApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\MonthlyRouteDistanceResponseDtoApi.cs",
+              "RelativeToolTip": "DTOs\\WebApiDTO\\Journey\\MonthlyRouteDistanceResponseDtoApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:28:32.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MonthlyRouteDistanceDtoApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\MonthlyRouteDistanceDtoApi.cs",
+              "RelativeDocumentMoniker": "DTOs\\WebApiDTO\\Journey\\MonthlyRouteDistanceDtoApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\MonthlyRouteDistanceDtoApi.cs",
+              "RelativeToolTip": "DTOs\\WebApiDTO\\Journey\\MonthlyRouteDistanceDtoApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:28:26.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "JourneyUnshareRequestDtoApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\JourneyUnshareRequestDtoApi.cs",
+              "RelativeDocumentMoniker": "DTOs\\WebApiDTO\\Journey\\JourneyUnshareRequestDtoApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\JourneyUnshareRequestDtoApi.cs",
+              "RelativeToolTip": "DTOs\\WebApiDTO\\Journey\\JourneyUnshareRequestDtoApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T21:43:41.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "JourneyShareResponseDtoApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\JourneyShareResponseDtoApi.cs",
+              "RelativeDocumentMoniker": "DTOs\\WebApiDTO\\Journey\\JourneyShareResponseDtoApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\JourneyShareResponseDtoApi.cs",
+              "RelativeToolTip": "DTOs\\WebApiDTO\\Journey\\JourneyShareResponseDtoApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:28:20.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "JourneyShareRequestDtoApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\JourneyShareRequestDtoApi.cs",
+              "RelativeDocumentMoniker": "DTOs\\WebApiDTO\\Journey\\JourneyShareRequestDtoApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\JourneyShareRequestDtoApi.cs",
+              "RelativeToolTip": "DTOs\\WebApiDTO\\Journey\\JourneyShareRequestDtoApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:28:14.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "JourneyPublicLinkDtoApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\JourneyPublicLinkDtoApi.cs",
+              "RelativeDocumentMoniker": "DTOs\\WebApiDTO\\Journey\\JourneyPublicLinkDtoApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\JourneyPublicLinkDtoApi.cs",
+              "RelativeToolTip": "DTOs\\WebApiDTO\\Journey\\JourneyPublicLinkDtoApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:28:02.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "JourneyFilterResponseDtoApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\JourneyFilterResponseDtoApi.cs",
+              "RelativeDocumentMoniker": "DTOs\\WebApiDTO\\Journey\\JourneyFilterResponseDtoApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\JourneyFilterResponseDtoApi.cs",
+              "RelativeToolTip": "DTOs\\WebApiDTO\\Journey\\JourneyFilterResponseDtoApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:27:51.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "JourneyFilterRequestDtoApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\JourneyFilterRequestDtoApi.cs",
+              "RelativeDocumentMoniker": "DTOs\\WebApiDTO\\Journey\\JourneyFilterRequestDtoApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\JourneyFilterRequestDtoApi.cs",
+              "RelativeToolTip": "DTOs\\WebApiDTO\\Journey\\JourneyFilterRequestDtoApi.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:27:10.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "JourneyDtoApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\JourneyDtoApi.cs",
+              "RelativeDocumentMoniker": "DTOs\\WebApiDTO\\Journey\\JourneyDtoApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\JourneyDtoApi.cs",
+              "RelativeToolTip": "DTOs\\WebApiDTO\\Journey\\JourneyDtoApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T21:49:35.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AddJourneyRequestDtoApi.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\AddJourneyRequestDtoApi.cs",
+              "RelativeDocumentMoniker": "DTOs\\WebApiDTO\\Journey\\AddJourneyRequestDtoApi.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\WebApiDTO\\Journey\\AddJourneyRequestDtoApi.cs",
+              "RelativeToolTip": "DTOs\\WebApiDTO\\Journey\\AddJourneyRequestDtoApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:18:17.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\User\\Status.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTO\\User\\Status.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\User\\Status.cs",
+              "RelativeToolTip": "DTOs\\DTO\\User\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:27:22.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RegisterResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\User\\RegisterResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTO\\User\\RegisterResponseDto.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\User\\RegisterResponseDto.cs",
+              "RelativeToolTip": "DTOs\\DTO\\User\\RegisterResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:27:04.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\User\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTO\\User\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\User\\RegisterRequestDto.cs",
+              "RelativeToolTip": "DTOs\\DTO\\User\\RegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:27:10.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\User\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTO\\User\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\User\\LoginRequestDto.cs",
+              "RelativeToolTip": "DTOs\\DTO\\User\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:27:02.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AdminChangeUserStatusRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\User\\AdminChangeUserStatusRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTO\\User\\AdminChangeUserStatusRequestDto.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\User\\AdminChangeUserStatusRequestDto.cs",
+              "RelativeToolTip": "DTOs\\DTO\\User\\AdminChangeUserStatusRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T11:58:14.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "PublicJourneyLinkResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\PublicJourneyLinkResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTO\\Journey\\PublicJourneyLinkResponseDto.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\PublicJourneyLinkResponseDto.cs",
+              "RelativeToolTip": "DTOs\\DTO\\Journey\\PublicJourneyLinkResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:26:53.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "MonthlyRouteDistanceResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\MonthlyRouteDistanceResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTO\\Journey\\MonthlyRouteDistanceResponseDto.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\MonthlyRouteDistanceResponseDto.cs",
+              "RelativeToolTip": "DTOs\\DTO\\Journey\\MonthlyRouteDistanceResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:26:48.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "MonthlyRouteDistanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\MonthlyRouteDistanceDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTO\\Journey\\MonthlyRouteDistanceDto.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\MonthlyRouteDistanceDto.cs",
+              "RelativeToolTip": "DTOs\\DTO\\Journey\\MonthlyRouteDistanceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:26:43.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "JourneyUnshareRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\JourneyUnshareRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTO\\Journey\\JourneyUnshareRequestDto.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\JourneyUnshareRequestDto.cs",
+              "RelativeToolTip": "DTOs\\DTO\\Journey\\JourneyUnshareRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T21:43:10.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "JourneyShareResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\JourneyShareResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTO\\Journey\\JourneyShareResponseDto.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\JourneyShareResponseDto.cs",
+              "RelativeToolTip": "DTOs\\DTO\\Journey\\JourneyShareResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:26:38.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "JourneyShareRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\JourneyShareRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTO\\Journey\\JourneyShareRequestDto.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\JourneyShareRequestDto.cs",
+              "RelativeToolTip": "DTOs\\DTO\\Journey\\JourneyShareRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:27:01.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "JourneyPublicLinkDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\JourneyPublicLinkDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTO\\Journey\\JourneyPublicLinkDto.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\JourneyPublicLinkDto.cs",
+              "RelativeToolTip": "DTOs\\DTO\\Journey\\JourneyPublicLinkDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:26:25.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "JourneyFilterResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\JourneyFilterResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTO\\Journey\\JourneyFilterResponseDto.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\JourneyFilterResponseDto.cs",
+              "RelativeToolTip": "DTOs\\DTO\\Journey\\JourneyFilterResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:26:18.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "JourneyFilterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\JourneyFilterRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTO\\Journey\\JourneyFilterRequestDto.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\JourneyFilterRequestDto.cs",
+              "RelativeToolTip": "DTOs\\DTO\\Journey\\JourneyFilterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:26:08.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "JourneyDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\JourneyDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DTO\\Journey\\JourneyDto.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO\\Journey\\JourneyDto.cs",
+              "RelativeToolTip": "DTOs\\DTO\\Journey\\JourneyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:25:56.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IUserStatusChangeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IUserStatusChangeRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserStatusChangeRepository.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IUserStatusChangeRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUserStatusChangeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:54.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:53.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRoleRepository.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IRoleRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:52.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IJourneyShareRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IJourneyShareRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IJourneyShareRepository.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IJourneyShareRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IJourneyShareRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:49.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IJourneyPublicLinkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IJourneyPublicLinkRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IJourneyPublicLinkRepository.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IJourneyPublicLinkRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IJourneyPublicLinkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:47.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IDailyGoalBadgeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IDailyGoalBadgeRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IDailyGoalBadgeRepository.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IDailyGoalBadgeRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IDailyGoalBadgeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:45.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IAuditLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IAuditLogRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAuditLogRepository.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Interfaces\\IAuditLogRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IAuditLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:42.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "UserStatusChange.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Entities\\UserStatusChange.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\UserStatusChange.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Entities\\UserStatusChange.cs",
+              "RelativeToolTip": "Domain\\Entities\\UserStatusChange.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:39.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvwoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:39.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:37.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "JourneyShare.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Entities\\JourneyShare.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\JourneyShare.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Entities\\JourneyShare.cs",
+              "RelativeToolTip": "Domain\\Entities\\JourneyShare.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:35.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "JourneyPublicLink.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Entities\\JourneyPublicLink.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\JourneyPublicLink.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Entities\\JourneyPublicLink.cs",
+              "RelativeToolTip": "Domain\\Entities\\JourneyPublicLink.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:32.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Journey.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Entities\\Journey.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Journey.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Entities\\Journey.cs",
+              "RelativeToolTip": "Domain\\Entities\\Journey.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:27.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "DailyGoalBadge.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Entities\\DailyGoalBadge.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\DailyGoalBadge.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Entities\\DailyGoalBadge.cs",
+              "RelativeToolTip": "Domain\\Entities\\DailyGoalBadge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:23.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Domain\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "Domain\\Entities\\AuditLog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:20.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "UnauthorizedException.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Common\\Exceptions\\UnauthorizedException.cs",
+              "RelativeDocumentMoniker": "Common\\Exceptions\\UnauthorizedException.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Common\\Exceptions\\UnauthorizedException.cs",
+              "RelativeToolTip": "Common\\Exceptions\\UnauthorizedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:02.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Common\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Common\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:26:00.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "HttpCodeTypes.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Common\\Exceptions\\HttpCodeTypes.cs",
+              "RelativeDocumentMoniker": "Common\\Exceptions\\HttpCodeTypes.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Common\\Exceptions\\HttpCodeTypes.cs",
+              "RelativeToolTip": "Common\\Exceptions\\HttpCodeTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:25:59.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "GoneException.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Common\\Exceptions\\GoneException.cs",
+              "RelativeDocumentMoniker": "Common\\Exceptions\\GoneException.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Common\\Exceptions\\GoneException.cs",
+              "RelativeToolTip": "Common\\Exceptions\\GoneException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:25:58.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ForbiddenException.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Common\\Exceptions\\ForbiddenException.cs",
+              "RelativeDocumentMoniker": "Common\\Exceptions\\ForbiddenException.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Common\\Exceptions\\ForbiddenException.cs",
+              "RelativeToolTip": "Common\\Exceptions\\ForbiddenException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:25:56.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ConflictException.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Common\\Exceptions\\ConflictException.cs",
+              "RelativeDocumentMoniker": "Common\\Exceptions\\ConflictException.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Common\\Exceptions\\ConflictException.cs",
+              "RelativeToolTip": "Common\\Exceptions\\ConflictException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:25:55.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "BaseException.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Common\\Exceptions\\BaseException.cs",
+              "RelativeDocumentMoniker": "Common\\Exceptions\\BaseException.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Common\\Exceptions\\BaseException.cs",
+              "RelativeToolTip": "Common\\Exceptions\\BaseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:25:53.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Common\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Common\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Common\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "Common\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:25:50.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "JWTUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Shared\\JWTUtilities.cs",
+              "RelativeDocumentMoniker": "Application\\Shared\\JWTUtilities.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Shared\\JWTUtilities.cs",
+              "RelativeToolTip": "Application\\Shared\\JWTUtilities.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:25:43.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "JwtBlacklistServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Services\\JwtBlacklistServicecs.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\JwtBlacklistServicecs.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Services\\JwtBlacklistServicecs.cs",
+              "RelativeToolTip": "Application\\Services\\JwtBlacklistServicecs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:25:21.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "DailyGoalWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Services\\DailyGoalWorker.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\DailyGoalWorker.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Services\\DailyGoalWorker.cs",
+              "RelativeToolTip": "Application\\Services\\DailyGoalWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:25:13.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "RabbitMqOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Services\\Messaging\\RabbitMqOptions.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Messaging\\RabbitMqOptions.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Services\\Messaging\\RabbitMqOptions.cs",
+              "RelativeToolTip": "Application\\Services\\Messaging\\RabbitMqOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:25:10.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "IEventPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Services\\Messaging\\IEventPublisher.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Messaging\\IEventPublisher.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Services\\Messaging\\IEventPublisher.cs",
+              "RelativeToolTip": "Application\\Services\\Messaging\\IEventPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T12:09:44.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "StringResourceMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Resources\\StringResourceMessage.cs",
+              "RelativeDocumentMoniker": "Application\\Resources\\StringResourceMessage.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Resources\\StringResourceMessage.cs",
+              "RelativeToolTip": "Application\\Resources\\StringResourceMessage.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:24:28.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "CommonStringResources.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Resources\\CommonStringResources.cs",
+              "RelativeDocumentMoniker": "Application\\Resources\\CommonStringResources.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Resources\\CommonStringResources.cs",
+              "RelativeToolTip": "Application\\Resources\\CommonStringResources.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:24:25.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Mapping\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mapping\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Mapping\\UserProfile.cs",
+              "RelativeToolTip": "Application\\Mapping\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:24:22.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "JourneyProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Mapping\\JourneyProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mapping\\JourneyProfile.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Mapping\\JourneyProfile.cs",
+              "RelativeToolTip": "Application\\Mapping\\JourneyProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:24:18.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "UserStatusChangedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Events\\UserStatusChangedEvent.cs",
+              "RelativeDocumentMoniker": "Application\\Events\\UserStatusChangedEvent.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Events\\UserStatusChangedEvent.cs",
+              "RelativeToolTip": "Application\\Events\\UserStatusChangedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T12:09:05.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "IJourneyServices.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Contracts\\IJourneyServices.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\IJourneyServices.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Contracts\\IJourneyServices.cs",
+              "RelativeToolTip": "Application\\Contracts\\IJourneyServices.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:05:06.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "IJwtBlacklistServices.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Contracts\\IJwtBlacklistServices.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\IJwtBlacklistServices.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Contracts\\IJwtBlacklistServices.cs",
+              "RelativeToolTip": "Application\\Contracts\\IJwtBlacklistServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:24:06.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Contracts\\IUserServices.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\IUserServices.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Contracts\\IUserServices.cs",
+              "RelativeToolTip": "Application\\Contracts\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:24:11.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "UserLoggedOutEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Events\\UserLoggedOutEvent.cs",
+              "RelativeDocumentMoniker": "Application\\Events\\UserLoggedOutEvent.cs",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Application\\Events\\UserLoggedOutEvent.cs",
+              "RelativeToolTip": "Application\\Events\\UserLoggedOutEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T00:56:12.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Presentation.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\Presentation.csproj",
+              "RelativeToolTip": "Presentation\\Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-18T13:20:35.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\Presentation\\appsettings.Development.json",
+              "RelativeToolTip": "Presentation\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T20:48:56.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "DTO.csproj",
+              "DocumentMoniker": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO.csproj",
+              "RelativeDocumentMoniker": "DTOs\\DTO.csproj",
+              "ToolTip": "C:\\Users\\Vanesa\\source\\repos\\NavigationPlatform\\DTOs\\DTO.csproj",
+              "RelativeToolTip": "DTOs\\DTO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-18T22:48:48.066Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

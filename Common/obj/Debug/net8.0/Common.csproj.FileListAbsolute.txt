@@ -1,0 +1,11 @@
+C:\Users\Vanesa\source\repos\NavigationPlatform\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Vanesa\source\repos\NavigationPlatform\Common\bin\Debug\net8.0\Common.dll
+C:\Users\Vanesa\source\repos\NavigationPlatform\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\Vanesa\source\repos\NavigationPlatform\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanesa\source\repos\NavigationPlatform\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Vanesa\source\repos\NavigationPlatform\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Vanesa\source\repos\NavigationPlatform\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Vanesa\source\repos\NavigationPlatform\Common\obj\Debug\net8.0\Common.dll
+C:\Users\Vanesa\source\repos\NavigationPlatform\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Vanesa\source\repos\NavigationPlatform\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\Vanesa\source\repos\NavigationPlatform\Common\obj\Debug\net8.0\ref\Common.dll
